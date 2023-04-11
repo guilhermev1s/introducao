@@ -9,6 +9,7 @@ const array = () => {
     'Ka',
     'Omega',
     'Fuscão',
+    'Novo Carro',
   ]
 
   return (
